@@ -1,0 +1,24 @@
+{
+  "name": "aws-dynamodb-example",
+  "version": "1.0.0",
+  "description": "AWS DynamoDB sample code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackie1019/aws-dynamodb-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackie1019/aws-dynamodb-example/issues"
+  },
+  "homepage": "https://github.com/blackie1019/aws-dynamodb-example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.176.0",
+    "fs": "0.0.1-security"
+  }
+}
